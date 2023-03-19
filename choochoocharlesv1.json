@@ -1,0 +1,33 @@
+{
+	"version": "test",
+
+
+"admobbannerId": "ca-app-pub-3940256099942544/630097811100",
+"admobInterId": "ca-app-pub-3940256099942544/103317371200",
+"admobReward": "ca-app-pub-3940256099942544/522435491700",
+
+"unityid": "4983033",
+"unitybanner": "Banner_Android",
+"unityinter": "Interstitial_Android",
+"unityreward": "Rewarded_Android",
+
+"applovinsdk": "RM1TOy8PvCXzMWHl7SRw1G875D3EXBhCzmnu2-NaE1QkTsEPTG95cGFPH7lz-5_JxTS_o6qrDTW-X2VQ-Thpue",
+	"applovinbanner": "58ddc11584fb91cd",
+	"applovininter": "b76f6bd7a75011d5",
+	"applovinreward": "9197cf6737213d08",
+
+
+"ironsdk": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+
+"rateActivated details ": "1:on 0:off",
+"rateActivated": "1",
+
+"adsSwitch detail ": " 1:admob  2:applovin 3:iron 4:unity 0:auto",
+
+"adsSwitchInter": "4",
+
+"adsSwitchBanner": "4",
+"adsSwitchReward": "4",
+"adscounter": "1"
+}
